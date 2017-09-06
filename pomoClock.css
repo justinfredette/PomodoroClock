@@ -1,0 +1,41 @@
+body {
+  color: white;
+  background: url(https://ak5.picdn.net/shutterstock/videos/1877854/thumb/1.jpg) no-repeat;
+  background-size: cover;
+}
+
+#minusFive {
+  color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+#addFive {
+  color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+#resetBtn {
+  color: white;
+  border: 1px solid black;
+  border-radius: 150px;
+}
+
+#minusBreak {
+  color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+#addBreak {
+  color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+#start {
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+}
